@@ -7,5 +7,4 @@ export interface InfoPagina  {
     Facebook?: string;
     instagram?: string;
     Equipo?: any[];
-
 }
